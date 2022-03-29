@@ -1,0 +1,78 @@
+exercicio 1
+
+Resp: IV O joão é professor de Matematica.
+
+exercicio 2 
+
+Resp: d: Antônio não passa na prova e não vai ao cinema em Novo Horizonte
+
+Exercicio 3 Algoritmos
+
+1-Faça um algoritmos para fazer café
+Resp: 
+- Pegar jarra
+- enche água de jarra
+- ligar tomada
+- esquente agua
+- pegar garrafa de cafe
+- abra tampa garrafa
+- pegar coador de café
+- coloque de cima de garrafa
+- pega o filtro 
+- coloque o filtro no coador de café
+- coloque Pó de cafe no filtro
+- Após fervendo água coloque coador de café
+
+2- faça um algoritmo para fazer compras de rémedios
+
+- Sentir a dor
+- Agendar consulta de médico
+- Dia e Hora marcada tem ir ao medico
+- Explique o médico a dor
+- Medico fazer detalhes 
+- Medico descobri a dor de cliente
+- fazer declaração para comprar rémedio
+- paciente ir farmácia
+- entregar a declaração de medico para farmaceutico
+- farmaceutico pegar o remedio
+- Entrega para paciente
+- Paciente vai de caixa e pagar remedio
+- Volta para casa
+- tome o remedio a sequencia oque medico fez declaração
+
+3-
+
+-Bata os ovos, o açúcar e a margarina no liquidificador por cerca de 1 minuto.
+
+Bata a farinha e o leite aos poucos, adicione o fermento em pó e bata tudo por mais 1 minuto.
+
+Despeje a massa em uma forma untada e enfarinhada e asse em forno médio (180° C), preaquecido, por cerca de 20 minutos ou até que um palito saia limpo ao ser espetado na massa.
+
+- pegar o liquificador
+- pegar 2 ovos de geladeira
+- pegar caixa de chocolate em po
+- pega de oléo no armário
+- pega caixa de leite na geladeira
+- pega pacote de açucar
+- adicione o leite
+- coloque dois ovos
+- adicione açucar 
+- adicione chocolate em pó
+- ligar a tomada
+- ligar o liquificador
+- bata tudo até ficar homogêneo
+- pega pacote de farinha de trigo
+- coloque a farinha de trigo no liquificador até ficar homogêneo
+- pega fermento em pó
+- coloque o fermento no liquificador
+- misturar novamente
+- passe magarina na forma de bolo
+- adicione pouquinho de trigo 
+- pega o liquificador
+- coloque liquidos na forma de bolo
+- pega a forma
+- leve ao forno médio pré-aquecido por cerca de 35 minutos
+- teste do palito
+- pronto para serve
+
+
